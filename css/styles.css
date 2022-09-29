@@ -165,7 +165,7 @@ a {
     padding-top: 5%;
     padding-left: 20%;
     padding-bottom: 10%;
-    background-image: url('./images/bg2.jpg');
+    background-image: url('https://raw.githubusercontent.com/realtobyfu/business-website/main/images/bg2.jpg');
     background-size: cover;
     color: white;
 }
