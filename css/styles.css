@@ -115,7 +115,7 @@ a {
     padding: 5% 10%;
 }
 
-@media (max-width: 150px) {
+@media (max-width: 1250px) {
     .first-item {
         margin-left: 15%;
     }
